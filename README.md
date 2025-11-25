@@ -10,16 +10,16 @@ El repositorio es una recopilación de los proyectos que realizo durante mis est
 Distribución por carpetas dependiendo de la asignatura
 
 Ejemplos:
-"trabajo-en-equipo-en-red/"
-"gestión-de-proyectos/"
-"sistemas-comunicación-I/"
+- "trabajo-en-equipo-en-red/"
+- "gestión-de-proyectos/"
+- "sistemas-comunicación-I/"
 
 Estas carpetas irían subdividiendose en función de los proyectos realizados dentro de la cada asignatura.
 
 Ejemplos:
-"trabajo-en-equipo-en-red/Proyecto-1"
-"trabajo-en-equipo-en-red/Proyecto-2"
-"gestión-de-proyectos/Proyecto-1"
+- "trabajo-en-equipo-en-red/Proyecto-1"
+- "trabajo-en-equipo-en-red/Proyecto-2"
+- "gestión-de-proyectos/Proyecto-1"
 
 # Información Personal
 Repositorio realizado por Juan Pedro Meléndez Lobo, estudiante del Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación en la UOC. Inicio este respositorio por petición de la asignatura Trabajo en equipo en la Red. Actualmente me encuentro desarrollando mis conocimientos en desarrollo de automatización de pruebas de código en mi entorno laboral. En el cual, también aplico y amplío mis conocimientos en gestión y planificación de proyectos técnicos.
